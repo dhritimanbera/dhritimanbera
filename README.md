@@ -10,7 +10,7 @@
   <a href="mailto:dhritiman.bera.college@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://thisisdhritiman1439.github.io/">
+  <a href="https://dhritimanbera.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white" />
   </a>
 </p>
@@ -44,7 +44,7 @@
 ---
 
 ## 📂 Featured Projects  
-- 📚 [**Library Management System**](https://github.com/thisisdhritiman1439/Library-Management-System) – Python, Streamlit, SQLite, Gemini API  
+- 📚 [**Library Management System**](https://github.com/dhritimanbera/Library-Management-System) – Python, Streamlit, SQLite, Gemini API  
 - 🧠 [**Allergen Detector**](https://github.com/nafeeshossain/Allergen-Detector/tree/Dhritimanbera) – Flask, OCR, PostgreSQL, Vercel  
 - 🔋 [**Solar-Powered EV with Wireless Charging**](https://github.com/nafeeshossain/Multipurpose_EV) – IoT & Renewable Energy  
 
@@ -52,12 +52,12 @@
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisdhritiman1439&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thisisdhritiman1439&theme=radical" alt="GitHub streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dhritimanbera&show_icons=true&theme=radical" alt="GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhritimanbera&theme=radical" alt="GitHub streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisdhritiman1439&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhritimanbera&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
 </p>
 
 ---
@@ -66,9 +66,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dhritiman-bera-0ab568269/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:dhritiman.bera.college@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://thisisdhritiman1439.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+  <a href="https://dhritimanbera.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐ *"Turning data into impactful stories and solutions."*  
+⭐ *"Turning data into impactful stories and solutions."*
