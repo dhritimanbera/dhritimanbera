@@ -1,7 +1,7 @@
 <!-- __define-ocg__ Professional GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Dhritiman Bera</h1>
-<h3 align="center">Aspiring Data Analyst • Data Scientist • Hackathon Enthusiast</h3>
+<h3 align="center">Aspiring Data Analyst • Hackathon Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhritiman-bera-0ab568269/">
